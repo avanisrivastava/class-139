@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h1{
+    display: inline;
+}
+
+.instruction1{
+    float: right;
+    border: 2px solid white;
+  
+}
+
+.mario_image{
+    width: 100%;
+    
+}
+
+#footer{
+    background-color: burlywood;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
